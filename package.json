@@ -1,0 +1,8 @@
+{
+  "name": "git-fs-html5",
+  "description": "git-fs implementation using window.requestFileSystem",
+  "version": "0.0.0",
+  "main": "fs.js",
+  "author": "Tim Caswell <tim@creationix.com>",
+  "license": "MIT"
+}
